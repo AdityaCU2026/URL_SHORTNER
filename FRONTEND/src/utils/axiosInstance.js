@@ -17,7 +17,7 @@ axiosInstance.interceptors.response.use(
         if (error.response) {
             // The server responded with a status code outside the 2xx range
             const { status, data } = error.response;
-            
+
             switch (status) {
                 case 400:
                     console.error("Bad Request:", data);
