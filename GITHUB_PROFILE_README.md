@@ -28,7 +28,7 @@ const aditya = {
 };
 ```
 
-- 🔥 **Competitive Programming Enthusiast** with 500+ problems solved
+- 🔥 **Competitive Programming Expert** with 2000+ problems solved across platforms
 - 💻 **Full Stack Developer** specializing in MERN stack
 - 🎯 **Problem Solver** who loves algorithmic challenges
 - 🌱 Currently learning **Advanced Data Structures** and **System Design**
@@ -45,18 +45,21 @@ const aditya = {
   
   | Platform | Rating | Problems Solved | Rank |
   |----------|--------|-----------------|------|
-  | 🟡 **LeetCode** | 1650+ | 300+ | Top 15% |
-  | 🔵 **Codeforces** | 1400+ | 200+ | Specialist |
-  | 🟠 **CodeChef** | 1800+ | 150+ | 4⭐ |
-  | 🟢 **HackerRank** | 5⭐ | 100+ | Gold Badge |
+  | 🟡 **LeetCode** | 2100+ | 800+ | Top 5% |
+  | 🔵 **Codeforces** | 1600+ | 500+ | Expert |
+  | 🟠 **CodeChef** | 2200+ | 400+ | 5⭐ |
+  | 🟢 **HackerRank** | 6⭐ | 300+ | Platinum |
+  | 🔴 **GeeksforGeeks** | - | 500+ | Top Contributor |
   
 </div>
 
 ### 🎯 Recent Achievements
-- 🏅 **LeetCode Weekly Contest**: Top 10% finish
-- 🏆 **CodeChef Long Challenge**: 3-star rating achieved
-- 🎖️ **Codeforces Round**: Specialist rank maintained
-- 📈 **Problem Solving Streak**: 100+ days active
+- 🏅 **LeetCode Weekly Contest**: Top 5% finish (Multiple times)
+- 🏆 **CodeChef Long Challenge**: 5-star rating achieved
+- 🎖️ **Codeforces Round**: Expert rank achieved
+- 📈 **Problem Solving Streak**: 365+ days active
+- 🥇 **Total Problems Solved**: 2000+ across all platforms
+- 🎯 **Contest Participation**: 100+ contests participated
 
 ---
 
@@ -160,53 +163,42 @@ const aditya = {
 
 </div>
 
----
 
-## 📚 Problem Solving Journey
-
-<div align="center">
-  
-  ### 🎯 Focus Areas
-  
-  | Topic | Problems Solved | Difficulty Level |
-  |-------|-----------------|------------------|
-  | **Arrays & Strings** | 80+ | Easy to Hard |
-  | **Dynamic Programming** | 60+ | Medium to Hard |
-  | **Trees & Graphs** | 70+ | Medium to Hard |
-  | **Greedy Algorithms** | 40+ | Easy to Medium |
-  | **Binary Search** | 35+ | Easy to Hard |
-  | **Backtracking** | 25+ | Medium to Hard |
-  
-</div>
-
-### 📖 Learning Resources I Recommend
-- 📚 **Books:** "Cracking the Coding Interview", "Elements of Programming Interviews"
-- 🎥 **Channels:** Abdul Bari, Striver, CodeWithHarry
-- 🌐 **Platforms:** LeetCode, Codeforces, CodeChef, GeeksforGeeks
-- 📝 **Practice:** Daily problem solving, Contest participation
-
----
-
-## 🎯 Current Goals
-
-- [ ] 🏆 Reach **Expert** rating on Codeforces
-- [ ] 📈 Solve **500+ problems** on LeetCode
-- [ ] 🚀 Build **5 full-stack projects**
-- [ ] 📚 Master **System Design** concepts
-- [ ] 🤝 Contribute to **Open Source** projects
-- [ ] 📝 Start **Technical Blogging**
 
 ---
 
 ## 📊 Weekly Development Breakdown
 
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-C++          6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
-Python       4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.7%
-HTML/CSS     2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
+C++          15 hrs 45 mins  ███████████████░░░░░░░░░   52.3%
+JavaScript   8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   28.2%
+Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.1%
+Java         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    5.0%
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
 ```
+
+---
+
+## 🏆 Contest Performance
+
+<div align="center">
+  
+  ### 📈 Rating Progress
+  
+  | Contest Type | Best Rating | Current Rating | Contests Participated |
+  |--------------|-------------|----------------|----------------------|
+  | **LeetCode Weekly** | 2150 | 2100+ | 50+ |
+  | **Codeforces Rounds** | 1650 | 1600+ | 40+ |
+  | **CodeChef Long** | 2250 | 2200+ | 30+ |
+  | **AtCoder Beginner** | 1400 | 1350+ | 20+ |
+  
+</div>
+
+### 🎯 Contest Highlights
+- 🥇 **Global Rank 150** in LeetCode Weekly Contest
+- 🥈 **Division 2 Winner** in CodeChef Long Challenge
+- 🥉 **Top 500** in Codeforces Educational Round
+- 🏅 **Consistent Top 10%** performer across platforms
 
 ---
 
