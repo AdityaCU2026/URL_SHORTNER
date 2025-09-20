@@ -22,7 +22,7 @@ services:
     name: url-shortener-frontend
     env: static
     buildCommand: cd FRONTEND && npm install && npm run build
-    staticPublishPath: ./FRONTEND/dist
+    staticPublishPath: FRONTEND/dist
     envVars:
       - key: VITE_API_URL
         value: https://url-shortner-backend1-fv5j.onrender.com
