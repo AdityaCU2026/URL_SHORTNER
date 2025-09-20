@@ -4,7 +4,6 @@
   <h3>A modern, full-stack URL shortening service with user authentication</h3>
   
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://url-shortner-frontend-71p3.onrender.com)
-  [![Backend API](https://img.shields.io/badge/Backend%20API-Live-green?style=for-the-badge)](https://url-shortner-backend-080g.onrender.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/AdityaCU2026/URL_SHORTNER)
 </div>
 
@@ -13,8 +12,6 @@
 ## 🌟 Live Demo
 
 **🚀 [Try the App Live](https://url-shortner-frontend-71p3.onrender.com)**
-
-**📡 Backend API:** `https://url-shortner-backend-080g.onrender.com`
 
 ---
 
