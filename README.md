@@ -281,7 +281,7 @@ This project is open source and available under the [MIT License](LICENSE).
   <h3>🔗 Quick Links</h3>
   
   **[Live Demo](https://url-shortner-frontend-71p3.onrender.com)** • 
-  **[API Docs](https://url-shortner-backend-080g.onrender.com)** • 
+  **[API Docs](API_DOCUMENTATION.md)** • 
   **[GitHub](https://github.com/AdityaCU2026/URL_SHORTNER)**
   
   <br>
