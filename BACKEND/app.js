@@ -16,7 +16,7 @@ dotenv.config("./.env")
 const app = express();
 
 app.use(cors({
-    origin: process.env.CORS_ORIGIN, // URL of your deployed frontend
+    origin: "https://url-shortner-frontend1-rdp2.onrender.com", // URL of your deployed frontend
     credentials: true
 }));
 app.use(express.json())
