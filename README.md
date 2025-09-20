@@ -30,6 +30,7 @@
 - [Usage](#-usage)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
+- [API Documentation](#-api-documentation)
 - [License](#-license)
 
 ---
@@ -237,6 +238,26 @@ VITE_API_URL=http://localhost:3000
 - Build Command: `cd FRONTEND && npm install && npm run build`
 - Publish Directory: `FRONTEND/dist`
 - Environment Variables: Set `VITE_API_URL`
+
+---
+
+## 📡 API Documentation
+
+Detailed API documentation is available in [API_DOCUMENTATION.md](API_DOCUMENTATION.md).
+
+**Quick API Reference:**
+- **Base URL:** `https://url-shortner-backend-080g.onrender.com`
+- **Authentication:** JWT via HTTP-only cookies
+- **Content-Type:** `application/json`
+
+**Key Endpoints:**
+- `POST /api/auth/register` - Register user
+- `POST /api/auth/login` - Login user
+- `POST /api/create` - Create short URL
+- `GET /:id` - Redirect to original URL
+- `POST /api/user/urls` - Get user URLs
+
+[📖 View Full API Documentation →](API_DOCUMENTATION.md)
 
 ---
 
