@@ -3,7 +3,9 @@ import { useQuery } from '@tanstack/react-query'
 import { getAllUserUrls } from '../api/user.api'
 
 const getBackendUrl = () => {
-  return import.meta.env.VITE_API_URL || 'http://localhost:3000'
+  const url = import.meta.env.VITE_API_URL || 'http://localhost:3000'
+  console.log('Backend URL:', url)
+  return url
 }
 
 const UserUrl = () => {
