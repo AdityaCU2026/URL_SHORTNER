@@ -3,7 +3,8 @@ import { useQuery } from '@tanstack/react-query'
 import { getAllUserUrls } from '../api/user.api'
 
 const getBackendUrl = () => {
-  const url = import.meta.env.VITE_API_URL || 'http://localhost:3000'
+  // Force production URL for testing
+  const url = 'https://url-shortner-backend-080g.onrender.com'
   console.log('Backend URL:', url)
   return url
 }
