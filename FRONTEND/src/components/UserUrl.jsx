@@ -2,6 +2,10 @@ import React, { useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { getAllUserUrls } from '../api/user.api'
 
+const getBackendUrl = () => {
+  return import.meta.env.VITE_API_URL || 'http://localhost:3000'
+}
+
 const UserUrl = () => {
   const { data: urls, isLoading, isError, error } = useQuery({
     queryKey: ['userUrls'],
@@ -80,12 +84,12 @@ const UserUrl = () => {
                 <td className="px-6 py-4">
                   <div className="text-sm">
                     <a 
-                      href={`${import.meta.env.PROD ? 'https://url-shortner-backend-080g.onrender.com' : 'http://localhost:3000'}/${url.short_url}`} 
+                      href={`${getBackendUrl()}/${url.short_url}`} 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-blue-600 hover:text-blue-900 hover:underline"
                     >
-                      {`${import.meta.env.PROD ? 'url-shortner-backend-080g.onrender.com' : 'localhost:3000'}/${url.short_url}`}
+                      {`${getBackendUrl().replace('https://', '').replace('http://', '')}/${url.short_url}`}
                     </a>
                   </div>
                 </td>
@@ -98,7 +102,7 @@ const UserUrl = () => {
                 </td>
                 <td className="px-6 py-4 text-sm font-medium">
                   <button
-                    onClick={() => handleCopy(`${import.meta.env.PROD ? 'https://url-shortner-backend-080g.onrender.com' : 'http://localhost:3000'}/${url.short_url}`, url._id)}
+                    onClick={() => handleCopy(`${getBackendUrl()}/${url.short_url}`, url._id)}
                     className={`inline-flex items-center px-3 py-1.5 border border-transparent text-xs font-medium rounded-md shadow-sm ${
                       copiedId === url._id
                         ? 'bg-green-600 text-white hover:bg-green-700'
