@@ -1,7 +1,9 @@
 import axios from "axios"
 
 const axiosInstance = axios.create({
-    baseURL:"http://localhost:3000",
+    baseURL: import.meta.env.PROD 
+        ? import.meta.env.VITE_API_URL || "https://your-backend-app.onrender.com"
+        : "http://localhost:3000",
     timeout:10000, //10s
     withCredentials:true
 })

@@ -16,7 +16,9 @@ dotenv.config("./.env")
 const app = express();
 
 app.use(cors({
-    origin: process.env.CORS_ORIGIN, // URL of your deployed frontend
+    origin: process.env.NODE_ENV === 'production' 
+        ? process.env.CORS_ORIGIN_PROD || process.env.CORS_ORIGIN
+        : process.env.CORS_ORIGIN,
     credentials: true
 }));
 app.use(express.json())
