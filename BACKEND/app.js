@@ -17,7 +17,7 @@ const app = express();
 
 app.use(cors({
     origin: process.env.NODE_ENV === 'production' 
-        ? "https://url-shortner-frontend1-rdp2.onrender.com"
+        ? "https://url-shortner-frontend-71p3.onrender.com"
         : process.env.CORS_ORIGIN,
     credentials: true
 }));
