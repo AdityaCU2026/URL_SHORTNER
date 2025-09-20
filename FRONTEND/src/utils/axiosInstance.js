@@ -2,7 +2,7 @@ import axios from "axios"
 
 const axiosInstance = axios.create({
     baseURL: import.meta.env.PROD 
-        ? import.meta.env.VITE_API_URL || "https://your-backend-app.onrender.com"
+        ? "https://url-shortner-backend1-fv5j.onrender.com"
         : "http://localhost:3000",
     timeout:10000, //10s
     withCredentials:true

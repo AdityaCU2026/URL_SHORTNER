@@ -14,7 +14,7 @@ services:
       - key: JWT_SECRET
         generateValue: true
       - key: CORS_ORIGIN
-        value: https://your-frontend-app.onrender.com
+        value: https://url-shortner-frontend1-rdp2.onrender.com
       - key: PORT
         value: 10000
 
@@ -25,4 +25,4 @@ services:
     staticPublishPath: ./FRONTEND/dist
     envVars:
       - key: VITE_API_URL
-        value: https://your-backend-app.onrender.com
+        value: https://url-shortner-backend1-fv5j.onrender.com
