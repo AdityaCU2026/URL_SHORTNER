@@ -6,11 +6,10 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityapratapsingh844115/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/carpediem_18/)
   [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adityapratap28)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]
-  (https://codeforces.com/profile/Adityapratap07)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Adityapratap07)
 
 </div>
 
@@ -22,17 +21,17 @@
 const aditya = {
     role: "Competitive Programmer & Full Stack Developer",
     location: "India",
-    education: "Computer Science Student",
-    currentFocus: ["Data Structures & Algorithms", "Web Development", "System Design"],
-    languages: ["JavaScript", "Python", "C++", "Java"],
+    education: "Information Technology",
+    currentFocus: ["Machine Learning",  "System Design"],
+    languages: ["JavaScript", "Python", "C++",],
     hobbies: ["Solving Problems", "Building Projects", "Learning New Tech"]
 };
 ```
 
-- 🔥 **Competitive Programming Expert** with 2000+ problems solved across platforms
+- 🔥 **Competitive Programming Enthusiast** with 1600+ problems solved
 - 💻 **Full Stack Developer** specializing in MERN stack
 - 🎯 **Problem Solver** who loves algorithmic challenges
-- 🌱 Currently learning **Advanced Data Structures** and **System Design**
+- 🌱 Currently learning **Machine Learning** and **System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Algorithms, Web Development, or Competitive Programming**
 
@@ -46,21 +45,17 @@ const aditya = {
 
   | Platform | Rating | Problems Solved | Rank |
   |----------|--------|-----------------|------|
-  | 🟡 **LeetCode** | 2100+ | 800+ | Top 5% |
-  | 🔵 **Codeforces** | 1600+ | 500+ | Expert |
-  | 🟠 **CodeChef** | 2200+ | 400+ | 5⭐ |
-  | 🟢 **HackerRank** | 6⭐ | 300+ | Platinum |
-  | 🔴 **GeeksforGeeks** | - | 500+ | Top Contributor |
+  | 🟡 **LeetCode** | 2027+ | 550+ | Top 2% |
+  | 🔵 **Codeforces** | 1460+ | 970+ | Specialist |
+  | 🟠 **CodeChef** | 1676+ | 150+ | 3⭐ |
 
 </div>
 
 ### 🎯 Recent Achievements
-- 🏅 **LeetCode Weekly Contest**: Top 5% finish (Multiple times)
-- 🏆 **CodeChef Long Challenge**: 5-star rating achieved
-- 🎖️ **Codeforces Round**: Expert rank achieved
-- 📈 **Problem Solving Streak**: 365+ days active
-- 🥇 **Total Problems Solved**: 2000+ across all platforms
-- 🎯 **Contest Participation**: 100+ contests participated
+- 🏅 **LeetCode Weekly Contest**: Top 300 finish
+- 🏆 **CodeChef Long Challenge**: 3-star rating achieved
+- 🎖️ **Codeforces Round**: Specialist rank maintained
+- 📈 **Problem Solving Streak**: 550+ days active
 
 ---
 
@@ -71,7 +66,7 @@ const aditya = {
 
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -152,6 +147,17 @@ const aditya = {
 
 ---
 
+### 🤖 [Virtual Assistant](https://github.com/AdityaCU2026/VirtualAssistant)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://virtualassistant-frontend-aoj5.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/AdityaCU2026/VirtualAssistant)
+
+**AI-Powered Personal Assistant Platform with Google Gemini Integration**
+- 🛠️ **Tech Stack:** React, Node.js, MongoDB, Google Gemini API, Cloudinary
+- ✨ **Features:** AI Conversations, Custom Assistant, Image Upload, Real-time Chat
+- 🚀 **Deployed:** Render (Frontend & Backend)
+
+---
+
 ### 📊 [Competitive Programming Tracker](https://github.com/AdityaCU2026/cp-tracker)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](#)
 
@@ -162,42 +168,18 @@ const aditya = {
 
 </div>
 
-
-
 ---
+
 
 ## 📊 Weekly Development Breakdown
 
 ```text
-C++          15 hrs 45 mins  ███████████████░░░░░░░░░   52.3%
-JavaScript   8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   28.2%
-Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.1%
-Java         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    5.0%
-Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
+C++          6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+Python       4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.7%
+HTML/CSS     2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
 ```
-
----
-
-## 🏆 Contest Performance
-
-<div align="center">
-
-  ### 📈 Rating Progress
-
-  | Contest Type | Best Rating | Current Rating | Contests Participated |
-  |--------------|-------------|----------------|----------------------|
-  | **LeetCode Weekly** | 2150 | 2100+ | 50+ |
-  | **Codeforces Rounds** | 1650 | 1600+ | 40+ |
-  | **CodeChef Long** | 2250 | 2200+ | 30+ |
-  | **AtCoder Beginner** | 1400 | 1350+ | 20+ |
-
-</div>
-
-### 🎯 Contest Highlights
-- 🥇 **Global Rank 150** in LeetCode Weekly Contest
-- 🥈 **Division 2 Winner** in CodeChef Long Challenge
-- 🥉 **Top 500** in Codeforces Educational Round
-- 🏅 **Consistent Top 10%** performer across platforms
 
 ---
 
@@ -207,9 +189,7 @@ Other        15 mins         ░░░░░░░░░░░░░░░░░
 
   💼 **Open for opportunities in Software Development and Competitive Programming**
 
-  📧 **Email:** aditya.pratap.singh@example.com
-
-  🌐 **Portfolio:** [adityapratapsingh.dev](https://your-portfolio.com)
+  📧 **Email:** adityacu2026@gmail.com
 
   ---
 
